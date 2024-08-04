@@ -1,0 +1,62 @@
+// images paths
+const String splashShoes = "assets/images/splash_shoes.png";
+const String selectedMale = "assets/images/selected_male.png";
+const String male = "assets/images/male.png";
+const String selectedFemale = "assets/images/selected_female.png";
+const String female = "assets/images/female.png";
+const String notificationBar = "assets/images/notif_bar.png";
+const String notification = "assets/images/notification.png";
+const String pinLocation = "assets/images/pin_location.png";
+const String check = "assets/images/check.png";
+const String goalBox = "assets/images/goal_box.png";
+const String normal = "assets/images/normal.png";
+const String selectNormal = "assets/images/select_normal.png";
+const String underWeight = "assets/images/underweight.png";
+const String selectUnderWeight = "assets/images/select_under_weight.png";
+const String overWeight = "assets/images/overweight.png";
+const String selectOverWeight = "assets/images/select_overweight.png";
+const String obese = "assets/images/obese.png";
+const String selectObese = "assets/images/select_obese.png";
+const String extremelyObese = "assets/images/extremely_obese.png";
+const String selectExtremelyObese = "assets/images/select_extremely_obese.png";
+const String premium = "assets/images/premium.png";
+const String subscription = "assets/images/subscription.png";
+const String rateSheet = "assets/images/rate_sheet.png";
+const String foodDrink = "assets/images/food_drink.png";
+const String walking = "assets/images/walking.png";
+const String walkingPerson = "assets/images/walking_person.png";
+const String personStand = "assets/images/person_stand.png";
+
+// icons path
+const String bmi = "assets/icons/bmi.png";
+const String calories = "assets/icons/calories.png";
+const String gps = "assets/icons/gps.png";
+const String trends = "assets/icons/trends.png";
+const String activityCalories = "assets/icons/activity_cal.png";
+const String activityPin = "assets/icons/activity_pin.png";
+const String activityTime = "assets/icons/activity_time.png";
+const String shoe = "assets/icons/shoe.png";
+const String step = "assets/icons/activity_step.png";
+const String bmiHeight = "assets/icons/bmi_height.png";
+const String bmiWeight = "assets/icons/bmi_weight.png";
+const String scale = "assets/icons/scale.png";
+const String pro = "assets/icons/pro .png";
+const String emoji0 = "assets/icons/0.png";
+const String emoji1 = "assets/icons/1.png";
+const String emoji2 = "assets/icons/2.png";
+const String emoji3 = "assets/icons/3.png";
+const String emoji4 = "assets/icons/4.png";
+const String emoji5 = "assets/icons/5.png";
+const String chart = "assets/icons/chart.png";
+const String run = "assets/icons/run.png";
+const String historyStep = "assets/icons/history_step.png";
+const String historyDuration = "assets/icons/history_duration.png";
+const String historyBurn = "assets/icons/history_burn.png";
+const String target = "assets/icons/target.png";
+const String appIcon = "assets/icons/icon.png";
+const String dots = "assets/icons/dots.png";
+const String stepWalk = "assets/icons/steps.png";
+const String startPin = "assets/icons/start_pin.png";
+
+// gif paths
+const String personWalking = "assets/gif/person_walking.gif";

@@ -1,0 +1,154 @@
+{
+  "identifier" : "B18CC6A6",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6503128522",
+    "_developerTeamID" : "Q8G849FN2W",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 738664633.56638503,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21492231",
+      "localizations" : [
+
+      ],
+      "name" : "Ads Subscriptions",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6503145857",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Buy Pro version for Monthly",
+              "displayName" : "Remove Ads for Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.monthlyremoveadsstepcounter",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Remove Ads for Monthly",
+          "subscriptionGroupID" : "21492231",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6503145714",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Buy Pro Version for Weekly",
+              "displayName" : "Remove Ads for Weekly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.weeklyremoveadsstepcounter",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "Remove Ads for Weekly",
+          "subscriptionGroupID" : "21492231",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "99.99",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "6503146130",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Buy Pro Version for Yearly",
+              "displayName" : "Remove Ads for Yearly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.yearlyremoveadsstepcounter",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Remove Ads for Yearly",
+          "subscriptionGroupID" : "21492231",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

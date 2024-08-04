@@ -1,0 +1,88 @@
+import '../model/food_item.dart';
+
+List<FoodItemModel> noodleDishes = [
+  FoodItemModel(
+    name: 'Pad Thai',
+    calories: 450,
+    image:
+        'https://hips.hearstapps.com/hmg-prod/images/pad-thai-index-6477629462a38.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=1200:*',
+    carbs: 60,
+    fat: 20,
+    protein: 15,
+    fiber: 5,
+    netCarbs: 55,
+    sodium: 800,
+    potassium: 350,
+    cholesterol: 50,
+  ),
+  FoodItemModel(
+    name: 'Ramen',
+    calories: 400,
+    image:
+        'https://assets.bonappetit.com/photos/643f14b5259b5fd1329ed8f5/1:1/w_2560%2Cc_limit/Noodle_Type_Ramen_Finished_Still_Select_COMP.jpg',
+    carbs: 50,
+    fat: 18,
+    protein: 20,
+    fiber: 3,
+    netCarbs: 47,
+    sodium: 750,
+    potassium: 320,
+    cholesterol: 40,
+  ),
+  FoodItemModel(
+    name: 'Spaghetti Carbonara',
+    calories: 500,
+    image:
+        'https://eadn-wc02-12309146.nxedge.io/wp-content/uploads/2022/09/How-to-Make-Spaghetti-Carbonara-Easy-Recipe.jpg',
+    carbs: 45,
+    fat: 25,
+    protein: 22,
+    fiber: 4,
+    netCarbs: 41,
+    sodium: 780,
+    potassium: 380,
+    cholesterol: 60,
+  ),
+  FoodItemModel(
+    name: 'Udon',
+    calories: 350,
+    image:
+        'https://therecipecritic.com/wp-content/uploads/2023/10/udon-noodles-4.jpg',
+    carbs: 55,
+    fat: 10,
+    protein: 12,
+    fiber: 3,
+    netCarbs: 52,
+    sodium: 700,
+    potassium: 300,
+    cholesterol: 30,
+  ),
+  FoodItemModel(
+    name: 'Soba',
+    calories: 320,
+    image:
+        'https://plantbasedonabudget.com/wp-content/uploads/2015/07/Vegan-Sesame-Soba-Noodles-Plant-Based-on-a-Budget-1-3.jpg',
+    carbs: 50,
+    fat: 8,
+    protein: 15,
+    fiber: 4,
+    netCarbs: 46,
+    sodium: 650,
+    potassium: 280,
+    cholesterol: 25,
+  ),
+  FoodItemModel(
+    name: 'Pho',
+    calories: 380,
+    image:
+        'https://www.servedfromscratch.com/wp-content/uploads/2014/12/Crock-Pot-Chicken-Pho-18-2.jpg',
+    carbs: 40,
+    fat: 15,
+    protein: 18,
+    fiber: 2,
+    netCarbs: 38,
+    sodium: 700,
+    potassium: 320,
+    cholesterol: 35,
+  ),
+];

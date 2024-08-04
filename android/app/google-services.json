@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297918441370",
+    "project_id": "step-counter-gps-tracking",
+    "storage_bucket": "step-counter-gps-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297918441370:android:4df633208e2908d0087c23",
+        "android_client_info": {
+          "package_name": "com.stepcountergpstracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVXLW5LKT6DleZPNIMbYtstnztWT1w2R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
